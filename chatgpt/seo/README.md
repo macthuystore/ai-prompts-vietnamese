@@ -27,6 +27,7 @@ Các prompt phù hợp với:
 | [05. Slug và ALT ảnh](./05-slug-alt-anh.md) | Tối ưu đường dẫn và mô tả hình ảnh |
 | [06. Liên kết nội bộ](./06-lien-ket-noi-bo.md) | Đề xuất internal link phù hợp |
 | [07. SEO nâng cao](./07-seo-nang-cao.md) | Kiểm tra nội dung và xây dựng cụm chủ đề |
+| [08. Giọng văn tự nhiên cho SEO](./08-giong-van-tu-nhien-cho-seo.md) | Biên tập bài SEO và sử dụng AI Humanizer có trách nhiệm |
 
 ---
 
