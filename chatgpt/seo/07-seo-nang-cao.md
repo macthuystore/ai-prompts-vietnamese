@@ -190,6 +190,7 @@ Hãy bắt đầu với bước 1.
 ---
 
 [⬅ Bài trước: Liên kết nội bộ](./06-lien-ket-noi-bo.md)  
+[➡ Bài tiếp theo: Giọng văn tự nhiên cho SEO](./08-giong-van-tu-nhien-cho-seo.md)
 [🏠 Quay lại mục SEO](./README.md)  
 [🤖 Quay lại ChatGPT](../README.md)  
 [🏡 Quay lại trang chủ](../../README.md)
