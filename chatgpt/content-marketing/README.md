@@ -26,6 +26,7 @@ Các prompt phù hợp với:
 | [04. Viết kịch bản video](./04-kich-ban-video.md) | Tạo kịch bản TikTok, Reels và Shorts |
 | [05. Tái sử dụng nội dung](./05-tai-su-dung-noi-dung.md) | Chuyển một nội dung thành nhiều định dạng |
 | [06. Content Marketing nâng cao](./06-content-marketing-nang-cao.md) | Xây dựng chiến lược và quy trình nội dung |
+| [07. Cách tạo giọng văn tự nhiên](./07-giong-van-tu-nhien.md) | Biên tập nội dung và sử dụng AI Humanizer có trách nhiệm |
 
 ---
 
